@@ -1,0 +1,15 @@
+
+Author:      Ryan Conrad 
+AKA:	     whiteknight
+AIM:         witenite88
+E-mail:      witenite87@excite.com
+Webpage:     camalot.virtualave.net
+Camalot VB Site: http://camalot.virtualave.net/CamalotVB/index.html (Opening SOON!)
+
+This Is an example of how to use a key string to encrypt a string. If a third party gets the encrypted message but doesn't know the Key (even if off by one letter) they cannot decrypt the message. Any comments or sugestion on how to make this work better please e-mail them to me at witenite87@excite.com.  
+
+Bugs Fixed on 6-6-00
+
+note: If the first encrypted string returns values > 999 then the decryption will CRASH Every time.  (ex. '1012 1001 1119' will crash, '999 990 998 994' should not crash.)
+
+Please vote for my example on planetsourcecode.com (http://www.planetsourcecode.com/vb/scripts/showcode.asp?txtCodeId=8539).  
